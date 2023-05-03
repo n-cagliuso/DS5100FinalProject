@@ -1,0 +1,16 @@
+bash-4.2$python montecarlo_tests.py
+test_7_jackpot (__main__.AnalyzerClassTest) ... ok
+test_8_combo (__main__.AnalyzerClassTest) ... ok
+test_9_face_counts (__main__.AnalyzerClassTest) ... ok
+test_1_change_weight (__main__.DieClassTest) ... ok
+test_2_roll_die (__main__.DieClassTest) ... ok
+test_3_current_die (__main__.DieClassTest) ... /home/nph4zk/.local/lib/python2.7/site-packages/pandas/core/ops.py:1649: FutureWarning: elementwise compa
+rison failed; returning scalar instead, but in the future will perform elementwise comparison
+  result = method(y)
+ok
+test_4_play_show (__main__.GameClassTest) ... ok
+test_5_play_show (__main__.GameClassTest) ... ok
+test_6_show_narrow (__main__.GameClassTest) ... ok
+----------------------------------------------------------------------
+Ran 9 tests in 1.863s
+OK

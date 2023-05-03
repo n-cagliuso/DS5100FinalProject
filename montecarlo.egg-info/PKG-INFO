@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: montecarlo
+Version: 1.0
+Summary: A Monte Carlo simulator featuring coin flips, dice rolls, and the letters of the Roman alphabet
+Home-page: https://github.com/n-cagliuso/DS5100FinalProject
+Author: Nick Cagliuso
+Author-email: nph4zk@virginia.edu
+License: LICENSE.txt
+Description: # DS5100FinalProject
+Platform: UNKNOWN
